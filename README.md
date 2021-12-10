@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I’m the author of dtm and handy.
+- 👯 I’m the author of [dtm](https://github.com/yedf/dtm) and [handy](https://github.com/yedf/handy).
 - 🔭 I’m currently working on dtm fulltime.
 - 🌱 I’m currently learning distributed transactions.
 
