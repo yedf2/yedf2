@@ -7,9 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I’m the author of [dtm](https://github.com/yedf/dtm) and [handy](https://github.com/yedf/handy).
-- 🔭 I’m currently working on dtm fulltime.
-- 🌱 I’m currently learning distributed transactions.
+- 👯 我是 [dtm](https://github.com/yedf/dtm) 和 [handy](https://github.com/yedf/handy)的作者
+- 🔭 暂时全职开发dtm
+- 🌱 我擅长的领域：分布式事务
+- ⚡  我的公众号：分布式事务
+- 📫 我的知乎：[https://www.zhihu.com/people/ye-dongfu](https://www.zhihu.com/people/ye-dongfu)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yedf2&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yedf2&theme=github)
