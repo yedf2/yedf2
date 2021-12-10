@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yedf2&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yedf2&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yedf2&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yedf&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yedf2&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yedf2&theme=github)
