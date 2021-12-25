@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 我是 [dtm](https://github.com/yedf/dtm) 和 [handy](https://github.com/yedf/handy)的作者
+- 👯 我是 [dtm](https://github.com/dtm-labs/dtm) 和 [handy](https://github.com/yedf2/handy)的作者
 - 🔭 暂时全职开发dtm
 - 🌱 我擅长的领域：分布式事务
 - ⚡  我的公众号：分布式事务
